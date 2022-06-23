@@ -33,9 +33,6 @@
 
     Edit `src/pages/index.js` to see your site update in real-time!
 
-3b. View GraphiQL, an in-browser IDE, to explore your site's data and
-    schema http://localhost:8000/___graphql 
-
 4.  **Learn more**
 
     - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
