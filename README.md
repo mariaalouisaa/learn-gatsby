@@ -7,9 +7,9 @@
   Gatsby minimal starter
 </h1>
 
-## 🚀 Quick start
+## 🚀 Quick intro to Gatsby
 
-Learning the basics of Gatsby by following the https://www.gatsbyjs.com/docs/tutorial/
+I am learning the basics of Gatsby by following the https://www.gatsbyjs.com/docs/tutorial/
 
 So far I have: 
 - Set up the development enviroment
@@ -18,27 +18,18 @@ So far I have:
 - Added StaticImage component using plugins and adjust config file accordingly
 
 **Developer mode**
-
     Navigate into your new site’s directory and start it up.
 
-    ```shell
     cd my-gatsby-site/
     npm run develop
-    ```
-
-    This site is now running at http://localhost:8000!
+    
+  This site is now running at http://localhost:8000!
 
 
  **Useful links**
-
     - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
     - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
     - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
     - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
     - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
     - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
