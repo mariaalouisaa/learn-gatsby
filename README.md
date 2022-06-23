@@ -27,11 +27,14 @@
     npm run develop
     ```
 
-3.  **Open the code and start customizing!**
+3a.  **Open the code and start customizing!**
 
     Your site is now running at http://localhost:8000!
 
     Edit `src/pages/index.js` to see your site update in real-time!
+
+3b. View GraphiQL, an in-browser IDE, to explore your site's data and
+    schema http://localhost:8000/___graphql 
 
 4.  **Learn more**
 
