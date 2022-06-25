@@ -16,6 +16,8 @@ So far I have:
 - Added basic components and styling
 - Used built in Link component
 - Added StaticImage component using plugins and adjust config file accordingly
+- Used GraphiQL endpoint (localhost:8000/___graphql) to explore the data in the data layer and design GraphQL queries
+- Learnt when use a page query vs useStaticQuery & implemented both
 
 **Developer mode**
     Navigate into your new site’s directory and start it up.
